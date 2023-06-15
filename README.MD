@@ -17,13 +17,12 @@ This model using Retrieval Task in TensorFlow Recommendation System to recommend
   1. Open command prompt or git bash and Clone this repository 
    ```sh
    git clone https://github.com/C23-PR591/Machine-Learning.git
-   ```
-   
+   ``` 
   2. Go to project folder
    ```sh
    cd Machine-Learning
-   ``
+   ```
   3. Open jupyter notebook
    ```sh
    jupyter notebokk
-   ``
+   ```
