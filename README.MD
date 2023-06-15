@@ -5,6 +5,13 @@
 # Overview
 This model using Retrieval Task in TensorFlow Recommendation System to recommend user mounts destination and leveraging some features from the user such as age, gender, and level. 
 
+# Requirements
+1. Tensorflow
+2. Tensorflow Recommenders
+3. Keras
+4. Numpy
+5. Pandas
+
 # Installation 
 ## Run on Google Colab
   1. Download this repository as a zip </br>
@@ -24,5 +31,14 @@ This model using Retrieval Task in TensorFlow Recommendation System to recommend
    ```
   3. Open jupyter notebook
    ```sh
-   jupyter notebokk
+   jupyter notebook
+   ```
+  4. Adjust directory to read the dataset
+     Example :
+   ```sh
+   # from
+   df_mount = pd.read_csv('/content/drive/My Drive/dataset/datagunung_lvl.csv',delimiter=',')
+   
+   # to this
+   df_mount = pd.read_csv('/dataset/datagunung_lvl.csv',delimiter=',')
    ```
