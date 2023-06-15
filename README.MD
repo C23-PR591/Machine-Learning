@@ -16,7 +16,8 @@ This model using Retrieval Task in TensorFlow Recommendation System to recommend
 ## Run on Local
   1. Open command prompt or git bash and Clone this repository 
    ```sh
-   git clone https://github.com/C23-PR591/Machine-Learning.git```
+   git clone https://github.com/C23-PR591/Machine-Learning.git
+   ```
    
   2. Go to project folder
    ```sh
